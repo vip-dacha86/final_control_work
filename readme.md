@@ -9,3 +9,5 @@
 ![Alt text](<Screenshot from 2023-12-18 21-20-12-1.png>)
 6.Диаграмма
 ![Alt text](diagramma.png)
+6.В подключенном MySQL репозитории создать базу данных “Друзья человека”
+![Alt text](<База данных Mysql.png>)
